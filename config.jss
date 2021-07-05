@@ -5,7 +5,7 @@ const CONFIG = {
     Lạc vào tim anh lẻ loi,
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'hihi',
-    title: 'Sau một thời gian chúng ta tìm hiểu nhau, Dũng không biết tỏ tính như vậy có sớm quá không.Nhưng D cảm thấy mình đã đủ thương và đã đặt tình cảm dành cho Kiều rất nhiều, D muốn đây là một mối quan hệ đẹp có thể cùng nhau đi một chặn đường dài đến hết đời 😙',
+    title: 'không biết có sớm quá không, nhưng D cảm thấy mình đã thương Kiều thật nhiều và muốn bên cạnh chăm sóc cho Kiều  😙',
     desc: 'vậy bây giờ chúng ta chính thức làm người yêu của nhau nhé <3 ',
     btnYes: 'Vẫn cứ là thích Dũng <33',
     btnNo: 'Không, Dũng à :3',
