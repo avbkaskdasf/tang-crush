@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
+    introTitle: 'Kiều xinh đẹp à!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
+    title: 'Không biết có sớm quá không, Nhưng Dũng cảm nhận D thương Kiều thật lòng mà muốn được ở bên chăm sóc cho Kiều, nên Dũng nói ra câu này 😙',
+    desc: 'Chúng ta chính thức làm người yêu nhau nhé ❤ ',
+    btnYes: 'Kiều đồng ý <33'
+    btnNo: 'Không đồng ý :3',
+    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh ❤❤❤',
+    btnReply: 'Gửi cho Dũng <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    mess: 'Dũng biết mà 🥰. Yêu thương Kiều nhiều nhiều 😘😘',
+    messDesc: 'Sáng mai chúng ta cùng nhau ăn cháo tiếp há hehe 😊.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'http://https://www.facebook.com/tridung.181/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
